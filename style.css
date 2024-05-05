@@ -1,0 +1,24 @@
+*{
+    font-family: ;
+    border: solid 1px red;
+}
+.sec1{
+    height: 550px;
+    background-color: #1F2937;
+    display: flex;
+}
+.sec2{
+    height: 500px;
+    background-color: #ffffff;
+    display: flex;
+}
+.sec3{
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+}
+.sec4{
+    height: 475px;
+    background-color: #ffffff;
+    display: flex;
+}
