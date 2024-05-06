@@ -12,29 +12,37 @@
     width: 1000px;
     height: 250px;
     margin: 175px auto;
-    /* display: block; */
     flex-direction: column;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 0px; 
 }
+/* SEC 1 */
 .sec1 .main-flex .box{
-    width: 500px;
-    flex: 1;
+    width: 450px;
 }
 .sec1 .box h1{
     font-size: 48px;
+    font-style: bolder;
     margin: 0px;
 }
+.sec1 .box p{
+    margin: 0;
+    font-size: 18px;
+    color: #5774af;
+}
+/* SEC 2 */
 .sec2{
     height: 500px;
     background-color: #ffffff;
     display: flex;
+/* SEC 3 */
 }
 .sec3{
     height: 400px;
     background-color: #E5E7EB;
     display: flex;
+/* SEC 4 */
 }
 .sec4{
     height: 475px;
